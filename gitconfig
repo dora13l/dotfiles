@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = doreenlam95@gmail.com
+	name = Doreen Lam
